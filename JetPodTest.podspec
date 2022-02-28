@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'JetPodTest'
   s.version          = '0.1.0'
-  s.summary          = 'Jet Pod Test for testing Jet Pod Test for testing Jet Pod Test for testing'
+  s.summary          = 'Jet Pod Test for testing Jet Pod Test for testing Jet Pod Test for testing eiei'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

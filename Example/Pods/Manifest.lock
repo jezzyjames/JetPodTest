@@ -1,0 +1,16 @@
+PODS:
+  - JetPodTest (0.1.0)
+
+DEPENDENCIES:
+  - JetPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  JetPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JetPodTest: 900ac3f041b1c55d261aea9012da4d16d01c5018
+
+PODFILE CHECKSUM: fe57a0795a18271a9993bc2950c7d05769b3ea4c
+
+COCOAPODS: 1.11.2
